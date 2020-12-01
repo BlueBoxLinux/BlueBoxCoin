@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=BLUEBOX
+Comment=BLUEBOX P2P Cryptocurrency
+Comment[fr]=BLUEBOX, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=BLUEBOX, eşten eşe kriptografik sanal para birimi
+Exec=/usr/bin/bluebox-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/bluebox;
+Categories=Office;

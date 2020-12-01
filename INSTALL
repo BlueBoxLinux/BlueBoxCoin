@@ -1,0 +1,9 @@
+Building BLUEBOX
+
+See doc/readme-qt.rst for instructions on building BLUEBOX QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BLUEBOX.
+
+See doc/build-*.txt for instructions on building blueboxd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BLUEBOX.

@@ -1,0 +1,2 @@
+debian/bin/blueboxd usr/bin
+src/blueboxd usr/lib/bluebox
